@@ -3,7 +3,7 @@ body {
     max-width: 700px;
     min-width: 0;
     padding: 0 10px 25px;
-    font-family: sans-serif;
+    font-family: monospace;
     color: #919191;
     background-color: #000000;
     display: grid;
@@ -31,7 +31,7 @@ h1, h2, strong {
 }
 
 a {
-    color: #ffa64d;
+    color: #36d2f4;
 }
 
 header {
