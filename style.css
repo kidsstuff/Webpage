@@ -60,6 +60,15 @@ article {
     border-top: 2px solid gray;
 }
 
+table, th, td {
+    border: 1px solid;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
 @media screen and (max-width: 430px) {
     body {
         grid-template-columns: auto;
