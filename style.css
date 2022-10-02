@@ -18,11 +18,11 @@ body {
 h1 {
     margin-top: 1em;
     padding-top: 1em;
-    font-size: 26px;
+    font-size: 28px;
 }
 
 h2 {
-    font-size: 23px;
+    font-size: 25px;
 }
 
 
@@ -36,14 +36,14 @@ a {
 
 header {
     margin: 0px;
-    font-size: 23px;
+    font-size: 25px;
     grid-area: header;
     justify-self: left;
     align-self: end;
 }
 
 nav {
-    font-size: 18px;
+    font-size: 20px;
     grid-area: nav;
     justify-self: right;
     align-self: end;
@@ -55,7 +55,7 @@ nav a {
 }
 
 article {
-    font-size: 16px;
+    font-size: 18px;
     grid-area: ct;
     border-top: 2px solid gray;
 }
