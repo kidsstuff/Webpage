@@ -68,6 +68,10 @@ table {
   border-collapse: collapse;
 }
 
+th, td {
+  padding: 10px;
+}
+
 @media screen and (max-width: 430px) {
     body {
         grid-template-columns: auto;
